@@ -1,5 +1,5 @@
 # Real-Time-Bus-Tracking
-This project takes data in real time from city bus information. It then tracks buses on a map.
+This project takes data in real time from city bus information. It then tracks buses on a map. This is similar to transit apps available in various cities (in simplified form).
 
 How to run: download files into a folder and open Index.html in your broweser.
 
